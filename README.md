@@ -158,7 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-Adeoba Emmanuel Tosin - [Github](https://github.com/) / [Gmail](https://gmail.com/dbtosin4real)
+Adeoba Emmanuel Tosin - [Github](https://github.com/dbtosin234) / [Gmail](https://gmail.com/dbtosin4real)
 Gilles Bertin Negol-Sam - [Github](https://github.com/Samydulait) / [twitter](https://twitter.com/negolsam)
 
 Second part of Airbnb: Joann Vuong
